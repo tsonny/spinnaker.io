@@ -1,8 +1,8 @@
 ---
-title: "Try out Spinnaker on GKE"
+title: "Try out Halyard on GKE"
+linkTitle: "Try out Halyard on GKE"
 weight: 1
-description: Install Halyard in a Google Cloud VM and then deploy Spinnaker to a GKE cluster.
-draft: true
+description: 
 ---
 
 > Note: we recommend that you install Spinnaker following the [standard setup directions](/docs/setup/)

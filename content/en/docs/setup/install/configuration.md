@@ -1,7 +1,11 @@
 ---
+layout: single
 title:  "Configuration"
-description: Spinnaker configuration is a multipart process, including configuring Cloud providers as deployment targets and external storage for metadata persistence.
+sidebar:
+  nav: setup
 ---
+
+
 
 There are a number of other things you can configure in your Spinnaker
 installation enumerated below. At any point in time, assuming that your

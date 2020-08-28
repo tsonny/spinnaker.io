@@ -1,9 +1,11 @@
 ---
-
+Layout: single
 title:  "Google Kubernetes Engine (GKE) Setup"
-linkTitle: GKE
-description: Deploy to GKE using the Kubernetes provider for Spinnaker. 
+sidebar:
+  nav: setup
 ---
+
+
 
 This page describes how to set up a Kubernetes cluster on
 [GKE](https://cloud.google.com/kubernetes-engine/) to be used with Spinnaker's

@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Set up Orca to use SQL"
-description: You can configure Clouddriver to use a MySQL compatible database in place of Redis for all of its persistence use cases. This provides more resiliency for your deployment.
+sidebar:
+  nav: setup
 ---
 
 

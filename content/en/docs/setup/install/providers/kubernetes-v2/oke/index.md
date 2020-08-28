@@ -1,8 +1,8 @@
 ---
-
+Layout: single
 title:  "Oracle Cloud Infrastructure Container Engine for Kubernetes (OKE) Setup"
-linkTitle: Oracle K8s
-description: Deploy to OKE using the Kubernetes provider for Spinnaker. 
+sidebar:
+  nav: setup
 ---
 
 

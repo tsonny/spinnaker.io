@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Cloud Foundry"
-description: Spinnaker supports deploying applications to Cloud Foundry. 
+sidebar:
+  nav: setup
 aliases: 
   - /setup/providers/cf/
 ---

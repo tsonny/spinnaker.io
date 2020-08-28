@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Google Cloud Storage"
-description: Spinnaker supports using Google Cloud Storage for persisting your Application settings and configured Pipelines.
+sidebar:
+  nav: setup
 aliases: 
     - /setup/storage/gcs/
 ---

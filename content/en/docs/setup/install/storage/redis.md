@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Redis"
-description: Spinnaker supports using Azure for persisting your Application settings and configured Pipelines.
+sidebar:
+  nav: setup
 aliases: 
    - /setup/storage/redis/
 ---

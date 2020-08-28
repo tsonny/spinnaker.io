@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Upgrading"
-description: Upgrading Spinnaker is a two step process. First, select the target version. Then, apply your change.
+sidebar:
+  nav: setup
 ---
 
 If you want to change Spinnaker versions using Halyard, you can read about

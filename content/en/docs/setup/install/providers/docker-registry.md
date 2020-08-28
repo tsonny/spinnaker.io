@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Docker Registry"
-description: Configure Spinnaker to use Docker as a source for images.
+sidebar:
+  nav: setup
 aliases: 
    - /setup/providers/docker-registry/
 ---

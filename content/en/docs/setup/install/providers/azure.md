@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Azure"
-description: 
+sidebar:
+  nav: setup
 aliases: 
   - /setup/providers/azure/
 ---

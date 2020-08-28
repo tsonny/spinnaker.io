@@ -1,7 +1,6 @@
 ---
 title:  "Amazon Web Services Concepts"
 linkTitle: "AWS Concepts"
-description: Spinnaker uses two types of accounts for AWS, and each one performs a different duty. They are classified as either a managing or managed account.
 ---
 
 ## Concepts

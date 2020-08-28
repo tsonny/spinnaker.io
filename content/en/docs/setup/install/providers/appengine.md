@@ -1,6 +1,8 @@
 ---
+layout: single
 title:  "Google App Engine"
-description: Spinnaker supports deploying applications to Google App Engine.
+sidebar:
+  nav: setup
 aliases: 
     - /setup/providers/appengine/
 ---

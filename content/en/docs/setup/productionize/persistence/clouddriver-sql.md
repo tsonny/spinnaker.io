@@ -1,12 +1,13 @@
 ---
-
+layout: single
 title:  "Set up Clouddriver to use SQL"
-description: You can configure Clouddriver to use a MySQL compatible database in place of Redis for all of its persistence use cases. This provides more resiliency for your deployment.
+sidebar:
+  nav: setup
 ---
 
 
 
- These are:
+You can configure Clouddriver to use a MySQL compatible database in place of Redis for all of its persistence use cases. These are:
 
 1. Caching the state of all supported cloud resources and graphing their relationships
 2. The cloud operations task repository

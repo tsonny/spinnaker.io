@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Minio"
-description: Spinnaker supports using Minio for persisting your Application settings and configured Pipelines.
+sidebar:
+  nav: setup
 aliases: 
   - /setup/storage/minio/
 ---

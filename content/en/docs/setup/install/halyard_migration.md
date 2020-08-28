@@ -1,9 +1,8 @@
 ---
-
+layout: single
 title:  "Migrate Halyard from Debian to Jar installation"
 sidebar:
   nav: setup
-draft: true
 ---
 
 

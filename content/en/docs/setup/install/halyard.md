@@ -1,7 +1,8 @@
 ---
-
+layout: single
 title:  "Install Halyard"
-weight: 1
+sidebar:
+  nav: setup
 aliases:
   - /docs/creating-a-spinnaker-instance
   - /docs/target-deployment-configuration

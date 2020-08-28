@@ -1,7 +1,10 @@
 ---
-
+layout: single
 title:  "Kubernetes (legacy provider)"
+sidebar:
+  nav: setup
 aliases: 
+ - /setup/providers/kubernetes/
  - /setup/install/providers/kubernetes-v1/
 ---
 
