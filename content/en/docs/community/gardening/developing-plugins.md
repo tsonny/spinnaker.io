@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Plugin Development at Spinnaker Gardening Days"
 sidebar:
   nav: community

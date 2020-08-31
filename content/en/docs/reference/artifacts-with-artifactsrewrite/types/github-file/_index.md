@@ -1,17 +1,8 @@
 ---
-layout: single
+
 title:  "GitHub File"
-sidebar:
-  nav: reference
+description: A GitHub file artifact is a reference to a file stored in [GitHub](https://github.com) or [GitHub Enterprise](https://enterprise.github.com/home). These artifacts are generally consumed by stages that read configuration from text files, such as a "Deploy (Manifest)" stage.
 ---
-
-## Overview 
-
-A GitHub file artifact is a reference to a file stored in
-[GitHub](https://github.com) or [GitHub
-Enterprise](https://enterprise.github.com/home). These artifacts are generally
-consumed by stages that read configuration from text files, such as a "Deploy
-(Manifest)" stage.
 
 ## GitHub file artifact in the UI
 

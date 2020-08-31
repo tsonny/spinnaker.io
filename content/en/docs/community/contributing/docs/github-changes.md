@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Make a Change Using the GitHub Web UI
 sidebar:
   nav: community

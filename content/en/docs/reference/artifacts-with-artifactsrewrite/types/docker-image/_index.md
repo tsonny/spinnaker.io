@@ -1,17 +1,10 @@
 ---
-layout: single
+
 title:  "Docker Image"
-sidebar:
-  nav: reference
+description: A Docker image artifact is a snapshot of a container, to be run locally or in the cloud. Docker image artifacts are used as references to images in [registries](https://docs.docker.com/registry/), such as [Google Container Registry](https://cloud.google.com/container-registry/) or [Docker Hub](https://index.docker.io). 
 ---
 
-
-
-A Docker image is a snapshot of a container, to be run locally or in the
-cloud. Docker image artifacts are used as references to images in
-[registries](https://docs.docker.com/registry/), such as
-[Google Container Registry](https://cloud.google.com/container-registry/)
-or [Docker Hub](https://index.docker.io). The artifacts can be deployed to
+Docker image artifacts can be deployed to
 Kubernetes or App Engine, and generally trigger pipelines from notifications
 sent by their registry.
 

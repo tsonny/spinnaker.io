@@ -1,15 +1,11 @@
 ---
-layout: single
 title:  "Git Repo"
-sidebar:
-  nav: reference
+description: Git repo artifacts are references to Git repositories that are hosted by a Git hosting service. 
 ---
 
 {{% alert title="note" %}}The Git Repo artifact is available in version 1.17 or later.{{% /alert %}}
 
-
-Git Repo artifacts are references to Git repositories that are hosted by a Git hosting service. They are consumed
-by stages that need multiple files to produce an output, such as the Bake (Manifest) stage when using the Kustomize template
+Git repo artifacts are consumed by stages that need multiple files to produce an output, such as the Bake (Manifest) stage when using the Kustomize template
 renderer. Unlike other artifact implementations, the Git Repo artifact works with any Git hosting service as long as the
 repository can be cloned using the Git CLI.
 
@@ -28,6 +24,7 @@ artifacts:
     - name: gitrepo
       token: 12344 #github personal access token
 ```
+
 Don't forget to run `hal deploy apply` after making your changes.
 
 ## Git Repo artifact in the UI

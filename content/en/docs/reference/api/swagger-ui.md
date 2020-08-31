@@ -1,8 +1,7 @@
 ---
-layout: single
+
 title:  "Swagger UI"
-sidebar:
-  nav: reference
+description: You can access Spinnaker's API service (Gate) through a Swagger UI.
 ---
 
 If you've installed Spinnaker, and the API gateway [Gate](https://github.com/spinnaker/gate) is running and accessible 

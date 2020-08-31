@@ -2,7 +2,7 @@
 title: 'Authentication Architecture'
 linkTitle: 'Authentication Architecture'
 weight:
-description:
+description: Spinnaker authentication involves three distinct parts, the UI (Deck), the API (Gate), and an identity provider.
 mermaid: true
 ---
 

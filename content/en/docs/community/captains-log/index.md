@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Captain's Log: The State of Spinnaker"
 sidebar:
   nav: community

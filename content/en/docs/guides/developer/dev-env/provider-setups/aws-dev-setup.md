@@ -11,7 +11,7 @@ In this setup, Spinnaker runs on an EC2 instance. Code is edited on the machine 
 
 # Configure local machine
 
-1. Create forks of all the [Spinnaker microservices]({{< ref "microservices-overview#spinnaker-microservices" >}}) on GitHub.
+1. Create forks of all the [Spinnaker microservices]({{< ref "architecture#spinnaker-microservices" >}}) on GitHub.
 2. Clone them onto your local machine in a dedicated `/spinnaker` directory. This will simplify syncing them in a batch during development.
 3. Set up [Intellij]({{< ref "getting-set-up#intellij" >}}) for Spinnaker as specified.
 
@@ -299,7 +299,7 @@ Caused by: java.net.BindException: Address already in use
 	... 17 common frames omitted
 ```
 
-If you get this exception when running `hal deploy apply`, check that you don't already have an instance of that microservice currently running (perhaps as root or another user). Check that the [spinnaker microservice ports]({{< relref "/docs/reference/architecture/microservices-overview#port-mappings" >}}) are not already in use.
+If you get this exception when running `hal deploy apply`, check that you don't already have an instance of that microservice currently running (perhaps as root or another user). Check that the [spinnaker microservice ports]({{< relref "/docs/reference/architecture#port-mappings" >}}) are not already in use.
 
 The following would be an example of how to debug this exception for Clouddriver (port 7002):
 * Check if the port for the given microservice is in use, and make a note of the process id (pid) that is using it. For instance for Clouddriver, you would do the following:

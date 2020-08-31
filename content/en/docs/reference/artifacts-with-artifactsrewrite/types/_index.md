@@ -2,7 +2,7 @@
 title: "Types of Artifacts"
 linkTitle: "Types of Artifacts"
 weight: 
-description: 
+description: Spinnaker supports several different types of artifacts.
 ---
 
 While an artifact can reference any remote, deployable resource, we have
@@ -22,4 +22,4 @@ The pages in this section serve to document the format Spinnaker expects these
 artifacts in, to make custom integrations with them easier. We recommend
 reading the [artifact format](/reference/artifacts/#format) first.
 
-For information about how to use artifacts in pipelines, see [About Spinnaker Artifacts](https://www.spinnaker.io/reference/artifacts/).
+For information about how to use artifacts in pipelines, see [What is a Spinnaker Artifact?](/docs/reference/artifacts-with-artifactsrewrite/).

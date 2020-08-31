@@ -2,7 +2,7 @@
 title: 'Life of a Bake'
 linkTitle: 'LOAB'
 weight:
-description:
+description: The life of a bake traces the path that an image takes through the Spinnaker services. 
 mermaid: true
 ---
 

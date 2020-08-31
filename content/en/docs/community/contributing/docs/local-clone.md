@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Make a Change Using a Local Clone
 sidebar:
   nav: community

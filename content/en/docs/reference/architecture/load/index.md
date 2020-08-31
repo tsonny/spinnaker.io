@@ -3,7 +3,7 @@ title: 'Life of a Deployment'
 linkTitle: 'LOAD'
 mermaid: true
 weight:
-description:
+description: The life of a deployment traces the path a deployment takes through the Spinnaker services.
 ---
 
 {{< mermaid >}}

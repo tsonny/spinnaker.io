@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Reviewing Pull Requests
 sidebar:
   nav: community

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Code Conventions for Server-side Components"
 sidebar:
   nav: community

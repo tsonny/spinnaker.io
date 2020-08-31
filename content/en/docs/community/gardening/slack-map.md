@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Slack Channels @ Spinnaker Gardening Days"
 sidebar:
   nav: community

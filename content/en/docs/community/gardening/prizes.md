@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Prize Information"
 sidebar:
   nav: community

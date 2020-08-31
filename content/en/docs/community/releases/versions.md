@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Versions"
 sidebar:
   nav: community

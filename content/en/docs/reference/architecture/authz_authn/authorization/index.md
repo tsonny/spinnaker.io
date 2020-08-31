@@ -2,12 +2,8 @@
 title: "Authorization Architecture"
 linkTitle: "Authorization Architecture"
 weight: 
-description: 
+description: Spinnaker's Fiat microservice is responsible for authorization. It works closely with Front50 (apps permissions), Clouddriver (account permissions), and Igor (build services permissions).
 ---
-
-
-## Overview
-Fiat works closely with Front50 (apps permissions), Clouddriver (account permissions), and Igor (build services permissions).
 
 ### Ingress
 

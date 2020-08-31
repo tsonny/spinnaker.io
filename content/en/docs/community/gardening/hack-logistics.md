@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Hackathon Logistics at Spinnaker Gardening Days"
 sidebar:
   nav: community

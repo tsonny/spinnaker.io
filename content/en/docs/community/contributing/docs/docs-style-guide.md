@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Documentation Style Guide"
 sidebar:
   nav: community

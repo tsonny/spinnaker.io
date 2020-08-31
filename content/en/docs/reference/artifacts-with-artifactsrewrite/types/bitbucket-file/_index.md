@@ -1,15 +1,10 @@
 ---
-layout: single
+
 title:  "Bitbucket File"
-sidebar:
-  nav: reference
+description: A Bitbucket file artifact is a reference to a file stored in [Bitbucket](https://bitbucket.org). 
 ---
 
-
-
-A Bitbucket file artifact is a reference to a file stored in
-[Bitbucket](https://bitbucket.org). These artifacts are generally consumed by
-stages that read configuration from text files, such as a Deploy Manifest
+Bitbucket artifacts are generally consumed by stages that read configuration from text files, such as a Deploy Manifest
 stage.
 
 ## Bitbucket file artifact in the UI

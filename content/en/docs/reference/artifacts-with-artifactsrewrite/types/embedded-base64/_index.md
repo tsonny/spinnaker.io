@@ -1,14 +1,8 @@
 ---
-layout: single
+
 title:  "Embedded Base64"
-sidebar:
-  nav: reference
+description: You can embed an artifact's contents directly into the `reference` field in Base64 rather than refer to a resource by a URI.
 ---
-
-
-
-Rather than refer to a resource by a URI, you can embed the artifact's contents
-directly into the `"reference"` field in Base64.
 
 ## Embedded Base64 artifact in the UI
 

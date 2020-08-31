@@ -2,7 +2,7 @@
 title: "Artifacts In App Engine"
 linkTitle: "In App Engine"
 weight: 
-description: 
+description: Spinnaker artifacts can be used in your Google App Engine deployments.
 ---
 
 

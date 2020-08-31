@@ -1,15 +1,9 @@
 ---
-title: "About Spinnaker Artifacts"
-linkTitle: "About Spinnaker Artifacts"
+title: "(Deprecated) Spinnaker Artifacts"
 weight: 
-description: 
+description: This section refers to the legacy artifacts UI, which is scheduled for removal in release 1.21. Please refer to the [standard artifacts guide](/docs/reference/artifacts-with-artifactsrewrite) instead.
+
 ---
-
-> This section refers to the legacy artifacts UI, which is scheduled for removal
-> in release 1.21. Please refer to the [standard artifacts guide](/reference/artifacts-with-artifactsrewrite)
-> instead.
-
-
 
 In Spinnaker, an artifact is an object that references an external resource. That resource could be…
 

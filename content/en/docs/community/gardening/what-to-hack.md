@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title:  "Hackathon Activities at Spinnaker Gardening Days #communityHack"
 sidebar:
   nav: community

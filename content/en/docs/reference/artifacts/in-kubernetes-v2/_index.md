@@ -2,13 +2,8 @@
 title: "Artifacts In Kubernetes"
 linkTitle: "In Kubernetes"
 weight: 
-description: 
+description: Artifacts play an important role in the Kubernetes provider. Everything from the manifests you deploy, to the Docker images or ConfigMaps they reference can be expressed or deployed in terms of artifacts.
 ---
-
-
-Artifacts play an important role in the Kubernetes provider. Everything from
-the manifests you deploy, to the Docker images or ConfigMaps they reference
-can be expressed or deployed in terms of artifacts.
 
 ## Manifests as artifacts
 
