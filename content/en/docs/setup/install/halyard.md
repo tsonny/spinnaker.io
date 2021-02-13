@@ -33,11 +33,13 @@ We recommend you install Halyard on a machine with at least 12GB of RAM.
 
 ## Install on Debian/Ubuntu and macOS
 
-Halyard runs on...
+Halyard runs on the following operating systems:
 
 * Ubuntu 14.04, 16.04 or 18.04 (Ubuntu 16.04 requires Spinnaker 1.6.0 or later)
 * Debian 8 or 9
 * macOS (tested on 10.13 High Sierra only)
+
+Additionally, Halyard requires Java 11.
 
 1. Get the latest version of Halyard:
 
@@ -122,7 +124,7 @@ installed](https://docs.docker.com/engine/installation/).
        --name halyard --rm \
        -v ~/.hal:/home/spinnaker/.hal \
        -it \
-       gcr.io/spinnaker-marketplace/halyard:stable
+       us-docker.pkg.dev/spinnaker-community/docker/halyard:stable
    ```
 
    This runs as a foreground process in your current shell. This is useful
@@ -158,7 +160,7 @@ Reference](/reference/halyard/commands).
 1. Fetch the latest Halyard version.
 
    ```bash
-   docker pull gcr.io/spinnaker-marketplace/halyard:stable
+   docker pull us-docker.pkg.dev/spinnaker-community/docker/halyard:stable
    ```
 
 1. Stop the running Halyard container.
@@ -172,7 +174,7 @@ Reference](/reference/halyard/commands).
        --name halyard --rm \
        -v ~/.hal:/home/spinnaker/.hal \
        -it \
-       gcr.io/spinnaker-marketplace/halyard:stable
+       us-docker.pkg.dev/spinnaker-community/docker/halyard:stable
    ```
 
    This re-starts the container using the updated image you got in step 1.

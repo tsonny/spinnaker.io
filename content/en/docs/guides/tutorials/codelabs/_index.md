@@ -7,5 +7,3 @@ description: >
 ---
 
 Each of these codelabs takes about one hour.
-
-
