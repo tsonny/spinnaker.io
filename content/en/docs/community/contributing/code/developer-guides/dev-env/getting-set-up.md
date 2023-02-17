@@ -19,7 +19,7 @@ This guide assumes you have access to a machine with a minimum specification of:
 
 - 18 GB of RAM
 - A 4 core CPU
-- Ubuntu 14.04, 16.04 or 18.04
+- Either Ubuntu 18.04 or higher, or Debian 10 or higher
 
 > This guide has been tested against a machine with these specifications but it's feasible
 > to develop Spinnaker on different flavors of Linux and with fewer resources, depending on
@@ -35,7 +35,7 @@ do multiple things, such as installing CLI tools or configuring service accounts
 way to approach this process is to open a step in its own browser tab and then work through
 it to completion, closing it (and any others you've opened in support of it) once it's done.
 
-1. [Install Halyard]({{< relref "/docs/setup/install/halyard#install-on-debianubuntu-and-macos" >}})
+1. [Install Halyard]({{< relref "/docs/setup/install/halyard#install-on-debianubuntu" >}})
 2. [Set up a storage service]({{< relref "/docs/setup/install/storage/" >}})
 3. [Set up your cloud provider of choice]({{< relref "/docs/setup/install/providers/" >}})
 4. [Configure a LocalGit deployment]({{< relref "/docs/setup/install/environment#local-git" >}})
